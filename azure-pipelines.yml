@@ -31,3 +31,4 @@ steps:
     pathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'warfilepublish'
     publishLocation: 'Container'
+
